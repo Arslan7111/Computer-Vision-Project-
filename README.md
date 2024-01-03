@@ -1,3 +1,3 @@
 # Computer-Vision-Project-
-#Project Name: Licence Plate Detection and data extraction
+#Project Name: Hand Gesture Recognition
 #Project Members: Ahmad Arslan, Muhammad Hamza 
